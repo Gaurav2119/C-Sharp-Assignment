@@ -1,0 +1,7 @@
+C:\Users\gauravgupta16\Desktop\Assignment_1\Exercise_2\Exercise_2\bin\Debug\Exercise_2.exe.config
+C:\Users\gauravgupta16\Desktop\Assignment_1\Exercise_2\Exercise_2\bin\Debug\Exercise_2.exe
+C:\Users\gauravgupta16\Desktop\Assignment_1\Exercise_2\Exercise_2\bin\Debug\Exercise_2.pdb
+C:\Users\gauravgupta16\Desktop\Assignment_1\Exercise_2\Exercise_2\obj\Debug\Exercise_2.csproj.AssemblyReference.cache
+C:\Users\gauravgupta16\Desktop\Assignment_1\Exercise_2\Exercise_2\obj\Debug\Exercise_2.csproj.CoreCompileInputs.cache
+C:\Users\gauravgupta16\Desktop\Assignment_1\Exercise_2\Exercise_2\obj\Debug\Exercise_2.exe
+C:\Users\gauravgupta16\Desktop\Assignment_1\Exercise_2\Exercise_2\obj\Debug\Exercise_2.pdb
