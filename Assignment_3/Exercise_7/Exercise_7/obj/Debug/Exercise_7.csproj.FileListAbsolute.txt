@@ -1,0 +1,7 @@
+C:\Users\gauravgupta16\Desktop\GitDemo\gaurav-gupta\C#\Assignment_3\Exercise_7\Exercise_7\bin\Debug\Exercise_7.exe.config
+C:\Users\gauravgupta16\Desktop\GitDemo\gaurav-gupta\C#\Assignment_3\Exercise_7\Exercise_7\bin\Debug\Exercise_7.exe
+C:\Users\gauravgupta16\Desktop\GitDemo\gaurav-gupta\C#\Assignment_3\Exercise_7\Exercise_7\bin\Debug\Exercise_7.pdb
+C:\Users\gauravgupta16\Desktop\GitDemo\gaurav-gupta\C#\Assignment_3\Exercise_7\Exercise_7\obj\Debug\Exercise_7.csproj.AssemblyReference.cache
+C:\Users\gauravgupta16\Desktop\GitDemo\gaurav-gupta\C#\Assignment_3\Exercise_7\Exercise_7\obj\Debug\Exercise_7.csproj.CoreCompileInputs.cache
+C:\Users\gauravgupta16\Desktop\GitDemo\gaurav-gupta\C#\Assignment_3\Exercise_7\Exercise_7\obj\Debug\Exercise_7.exe
+C:\Users\gauravgupta16\Desktop\GitDemo\gaurav-gupta\C#\Assignment_3\Exercise_7\Exercise_7\obj\Debug\Exercise_7.pdb
